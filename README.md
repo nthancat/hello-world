@@ -1,3 +1,3 @@
 # hello-world
 
-Hi, my namу is Danil. How are you?
+Hi, my name is Danil. How are you?
